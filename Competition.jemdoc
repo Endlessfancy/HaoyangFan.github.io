@@ -1,0 +1,61 @@
+# jemdoc: menu{MENU}{Competition.html}, nofooter 
+==Haoyang Fan
+
+~~~
+{}{img_left}{img\fhy.jpg}{alt text}{150}{200}{}
+Undergraduate from Xidian University,\n 
+Zhenjiang Jiangsu, China \n 
+Phone: \+86 18261959929 \n
+Email: Haoyang_Fan00\@163.com \n
+
+~~~
+
+
+
+
+== Competition
+=== Mathematical Modeling Competition
+~~~
+{}{img_left}{img\shumo1.jpg}{alt text}{500}{375}{}
+
+Mathematical modeling competition requires three people to form a team, respectively responsible for modeling, programming, paper writing. They need to solve a complex realistic problem within limited time.
+
+Mathematical modeling competition requires three people to form a team, respectively responsible for modeling, programming, paper writing. We need to solve a complex realistic problem within limited time. I was mainly responsible for the modeling part. When we took part in the competition, we also met many problems. A case in point is Novel Coronavirus spread in school and control measures. We need to consider the transmission probability in establishment of epidemic spreading is set to how much can be the most close to the reality, in order to solve this problem, we use the model of infectious diseases in the SIR model of national infections of curve fitting, the results are the average contact infection.The simulation is carried out in cellular automata model on campus.In the process of fitting, we also encountered some special data, such as the explosive growth in South Korea, which was excluded due to the difficulty of detecting carriers.These complex and interesting questions are to be considered and analyzed and answered in this article. Finally, we won the second prize in the national competition and the H Prize in the American competition.
+~~~
+
+=== Eletronic Design Competition
+~~~
+{}{img_left}{img\diansai1.jpg}{alt text}{502}{327}{}
+
+In the summer vacation of 2020, I signed up to participate in the electronic information contest information----Technology Frontier Thematic invitational under the guidance of Prof. Xinhuai Wang.
+
+The competition required us to complete the design of some specific hardware works by using Renesas platform and R7S921053VCBG as the main control core. We used R7S921053VCBG as the main control core to realize the shadow puppetry project. This experience is also impressive for a good introduction of advanced embedded system. After that, I learned more about fpga and Raspberry Pi.
+~~~
+
+
+=== Physics Olympiad, Mathematical Olympiad
+~~~
+{}{img_left}{img\Olympicwuli1.jpg}{alt text}{500}{680}{}
+
+The High School Physics and Mathematics Olympiad is a competition for high school students that test some advanced knowledge including university physics and mathematics.
+
+In high school, I was interested in physics and mathematics, so I spent my spare time to learn physics and mathematics knowledge for two years. My interest in physics and mathematics cannot be satisfied only by mastering what I learned in high school, so I bought a lot of university textbooks and studied them by myself in ahead, including advanced mathematics, university physics, theoretical mechanics, quantum mechanics and so on. This knowledge has greatly broadened my horizons. To prepare for these two competitions, I also did a lot of complicated and interesting physics and mathematics competition questions.
+
+I met many difficulties in the process of learning knowledge. For example, when solving the rigid body problem, I often feel that the force analysis and the process of solving the force equation is quite confusing. Thus, I bought a book on theoretical mechanics to study. I got a brief understanding of the rigid body analysis parts and did a lot of rigid body force analysis training to deepen my understanding of knowledge. Eventually, I mastered how to analyzing rigid body question quickly and correctly.
+
+Finally, my efforts were rewarded with the first prize of the provincial Physics Olympiad for senior High School students and the second prize of the provincial Mathematics Olympiad. I got a deep understanding that hard work pays off and the joy of success is unparalleled.
+
+~~~
+
+~~~
+{}{img_left}{img\Olympicshuxue1.jpg}{alt text}{500}}{250}{}
+~~~
+
+=== Challenge Cup Competition
+~~~
+{}{img_left}{img\tiaozhanbei1.jpg}{alt text}{500}{375}{}
+
+This is a competition for college students' innovation and entrepreneurship, which will evaluate, give comments and suggestions on entrepreneurial projects, and even have some financial investment.
+
+This project will be explained in the following internship block.
+~~~
