@@ -1,0 +1,31 @@
+# jemdoc: menu{MENU}{Research.html}, nofooter 
+==Haoyang Fan
+
+~~~
+{}{img_left}{img\fhy.jpg}{alt text}{150}{200}{}
+Undergraduate from Xidian University,\n 
+Zhenjiang Jiangsu, China \n 
+Phone: \+86 18261959929 \n
+Email: Haoyang_Fan00\@163.com \n
+
+~~~
+
+
+
+
+== Research
+=== Research under the instruction of Prof. Chen
+~~~
+{}{img_left}{img\Chenbo1.png}{alt text}{500}{500}{}
+Considering that HRRP contains rich identification information and efficient processing, target recognition based on HRRP has attracted extensive attention in the field of radar automatic target recognition (RATR). As for HRRP target recognition problem (HRRP itself has time dependence), the common methods includes Hiddien Markov Model (HMM) based methods, RNN, probability generation model generative model and so on. However, these methods also have limitations. All the kinetic models mentioned above are one-way models, which can only represent the forward information transmission in the HRRP sample and ignore the dependence of backward time. Therefore, none of these models can use all the available input information for the past and future of a particular time frame in the HRRP sequence characteristics. This is also the main purpose of the research, trying to combine the bidirectional nature of time.
+~~~
+
+=== Research under the instruction of Prof. Xie
+~~~
+{}{img_left}{img\Xie1.png}{alt text}{500}{400}{}
+
+Prof. Pengtao Xie is a well-known eminent professor in UCSD. When studying the problems of interpretability, I was exposed to the problem of neural Architecture search, which aiming to find the best neural network architecture for the specific data. 
+
+In summer research, I mainly studied some of the teacher's achievements, including Skillearn and teacher learning, which is the new methods in the field of neural Architecture search problem. Also, I use some of the mentioned models to solve OCT image recognition problems. Finally, learning from Mistakes is studied.
+
+~~~
