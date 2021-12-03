@@ -1,0 +1,24 @@
+==Haoyang Fan
+
+~~~
+{}{img_left}{img\fhy.jpg}{alt text}{150}{200}{}
+Undergraduate from Xidian University,\n 
+Zhenjiang Jiangsu, China \n 
+Phone: \+86 18261959929 \n
+Email: Haoyang_Fan00\@163.com \n
+Gmail: fhy2906732825\@gmail.com
+~~~
+
+== Honor
+=== Scholarship
+- National Scholarship 2019-2020 (Top 1\%)
+- National Scholarship 2018-2019 (Top 1\%)
+- Senior Scholarship             (Top 1.5\%)
+- "Yuan Wang Gu" Scholarship     (Top 5\%)
+=== Award
+- Second-Prize | 2020 China Undergraduate Mathematical Contest in Modeling           
+- Bronze-Prize | 2020 Challenge Cup
+- Second-Prize | 2020 National Undergraduate Eletronic Design Contest
+- Second-Prize | 2020 National English Competition
+- First -Prize | 2017 National Physics Olympiad for High School Students
+- Second-Prize | 2017 National Math Olympiad for High School students

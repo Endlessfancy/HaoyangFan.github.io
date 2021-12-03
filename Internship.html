@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Haoyang Fan</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">MENU</div>
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-item"><a href="Honor.html">Honor</a></div>
+<div class="menu-item"><a href="Hobby.html">Hobby</a></div>
+<div class="menu-item"><a href="Competition.html">Competition</a></div>
+<div class="menu-item"><a href="Project.html">Project</a></div>
+<div class="menu-item"><a href="Research.html">Research</a></div>
+<div class="menu-item"><a href="Internship.html" class="current">Internship</a></div>
+<div class="menu-item"><a href="Activity.html">Activity</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Haoyang Fan</h1>
+</div>
+<table class="imgtable"><tr><td>
+<img src="img\fhy.jpg" alt="alt text" width="150px" height="200px" />&nbsp;</td>
+<td align="left"><p>Undergraduate from Xidian University,<br /> 
+Zhenjiang Jiangsu, China <br /> 
+Phone: +86 18261959929 <br />
+Email: Haoyang_Fan00@163.com <br />
+Gmail: fhy2906732825@gmail.com</p>
+</td></tr></table>
+<h2>internship </h2>
+<h3>a campus internship aimming to produce intelligent toy named ai-cube</h3>
+<table class="imgtable"><tr><td>
+<img src="img\aicube1.png" alt="alt text" width="400px" height="300px" />&nbsp;</td>
+<td align="left"><p>In the summer vacation of 2020, I participated in an entrepreneurship project in my university, which intended to make an intelligent building toy under the leadership of a teacher from an innovation school. At that time, I was interested in intelligent devices. I also bought a lot of intelligent devices, and I took them apart to observe the internal structure. With certain knowledge base and interest,  I wanted to have a try.</p>
+<p>I mainly responsible for the hardware part. I would select all kinds of equipment according to the function, size and other requirements, chip to realize the function, design PCB board with AD software, and send to the relevant manufacturers for printing. Also, I was required to choose the high cost effective components and equipment for welding. At the same time, the 3D shell is designed to complete the design of a complete module. Finally, I wrote the underlying codes, aiming to use hardware to achieve some complex functions, such as ‘if’, ‘when’ in programming.</p>
+</td></tr></table>
+<h3>a internship in Hkivision</h3>
+<table class="imgtable"><tr><td>
+<img src="img\Hkivision.jpg" alt="alt text" width="300px" height="400px" />&nbsp;</td>
+<td align="left"><p>The main task of the internship is to explore and test the existing living detection algorithm (Living detection refers to the task of distinguishing human and dummy, which may include photos, head mold, etc.) and try to break through the algorithm. </p>
+<p>As depicted in the picture, the whole project is composed of several parts : mechanical arm, carrier car, photo frame/head mold and camera. We used the reinforcement learning program, such as DDPG and PPO, to learn the angle vector of the next action rotation of the manipulator arm.</p>
+<p>The mechanical arm controls the picture frame/head mold and trolley to move to some specific position. The camera collects photos in time and sends it to the face recognition program to judge whether it is a real face or a fake face. The confidence value is returned as a reward, which is a parameter to train the network in the reinforcement learning program. After that, the trained model was tested. The test results were compared with the sampling accuracy.</p>
+<p>Confronted with many difficulties, I solve them through my continuous efforts and active discussion with my fellows.</p>
+<p>1.Non-convergence: 
+For a certain photo, there is an easy interval for the sample to be breached. However, it is difficult for reinforcement learning to converge, and it is hard to quickly find the breached position for this photo. Therefore, the reward function was modified and some global factors were added to achieve a better convergence.</p>
+<p>2.Coordinate system transformation problem in controlling mechanical arm:
+The mechanical arm cannot be maintained in a fixed position, since matrix multiplication is more complex. There are more than 3 coordinate systems when using the mechanical arm, including geodetic coordinate and flange plate coordinate. After many attempts, I wrote the correct transformation program.</p>
+<p>3.Time efficiency problem: 
+Time efficiency of test is inferior to that of sampling. The time waste of data copying and transferring between different CUDA programs in CPU and GPU  is solved by unifying all process in GPU.(for example, reinforcement learning is carried out on GPU, but target detection and other parts of the code are CPU version)</p>
+<p>4.The lighting problem:
+Because my superior wanted to make the test more complicated and close to the real situation, I considered adding the lighting system. I had have some experience in the shadow puppet project, so I finally choose ESP8266 WIFI module to control WS2812 8*8 lighting module, which successfully met the requirement.</p>
+<p>After this experience in Hikvision pre-research department, I have a deeper understanding of reinforcement learning, mechanical arm control. Also, having a real work experience, I felt the responsibility and burden of my parents.</p>
+</td></tr></table>
+</td>
+</tr>
+</table>
+</body>
+</html>

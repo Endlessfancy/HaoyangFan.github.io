@@ -1,0 +1,22 @@
+# jemdoc: menu{MENU}{Project.html}, nofooter 
+==Haoyang Fan
+
+~~~
+{}{img_left}{img\fhy.jpg}{alt text}{150}{200}{}
+Undergraduate from Xidian University,\n 
+Zhenjiang Jiangsu, China \n 
+Phone: \+86 18261959929 \n
+Email: Haoyang_Fan00\@163.com \n
+
+~~~
+
+
+
+== Project
+
+=== Intelligent shadow play robot project
+~~~
+{}{img_left}{img\piying1.png}{alt text}{400}{300}{}
+
+The main purpose of the shadow play robot project is to combine the ancient shadow play art with the machine and artificial intelligence technology to reproduce this wonderful traditional folk art performance. Since some traditional shadow play performances in Shaanxi are gradually disappearing, we wanted to make a mechanical arm to make shadow play performances, in which way we could record and inherit these excellent traditional folk arts.
+~~~
